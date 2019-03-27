@@ -5,14 +5,13 @@ title: Team
 
 # Person A
 
-Short bio ...
-
+Very tall person
 
 # Person B
 
-Short bio ...
+This one is blond 
 
 
 # Person C
 
-Short bio ...
+This one is also blond

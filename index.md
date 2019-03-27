@@ -10,3 +10,7 @@ title: Example
 - Some event
 - Another exciting event
 - More news
+
+## Some new stuff
+
+$ print('Hello world')
